@@ -28,6 +28,7 @@ pod install
 3. Go back to the project root:
 ```bash
 cd ..
+```
 
 4. Run the app on iOS simulator or device:
 ```bash
